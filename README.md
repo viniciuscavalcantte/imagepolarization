@@ -72,8 +72,8 @@ A técnica simulada melhora o realce de detalhes ao ampliar a imagem. As bordas 
 
 | Versão                  | PSNR (dB) | SSIM   |
 |------------------------|-----------|--------|
-| Ampliação tradicional  | ~xx.xx    | ~x.xxx |
-| Ampliação polarizada   | ~yy.yy    | ~y.yyy |
+| Ampliação tradicional  | 33.98     | 0.916  |
+| Ampliação polarizada   | 29.94     | 0.887  |
 
 > *Valores exatos são exibidos ao executar o script.*
 
