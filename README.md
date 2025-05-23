@@ -99,4 +99,3 @@ A abordagem baseada em **polarização digital simulada** demonstrou resultados 
 
 Trabalho prático apresentado na disciplina de **Processamento Digital de Imagens (PDI)**  
 **Universidade Federal de Alagoas – Campus Arapiraca**  
-Aluno: *Fernando Dantas* | Maio de 2025
